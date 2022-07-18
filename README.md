@@ -32,9 +32,9 @@ Performance for these models will be evaluated using balanced accuracy scores, c
 	Figure 1: RandomOverSampler Balanced Accuracy Score, Confusion Matrix, and Imbalanced Classification Report. <br/>
 </p>
 
-The balanced accuracy score is 64.1%.
-The high risk precision is 1% with a recall score of 60%.
-The low risk precision is 100% with a recall score of 68%.
+- The balanced accuracy score is 64.1%.
+- The high risk precision is 1% with a recall score of 60%.
+- The low risk precision is 100% with a recall score of 68%.
 
 ### SMOTE
 
@@ -54,9 +54,9 @@ The low risk precision is 100% with a recall score of 68%.
 	Figure 2: SMOTE Balanced Accuracy Score, Confusion Matrix, and Imbalanced Classification Report. <br/>
 </p>
 
-The balanced accuracy score is 63.7%.
-The high risk precision is 1% with a recall score of 60%.
-The low risk precision is 100% with a recall score of 68%.
+- The balanced accuracy score is 63.7%.
+- The high risk precision is 1% with a recall score of 60%.
+- The low risk precision is 100% with a recall score of 68%.
 
 ### ClusterCentroids
 
@@ -76,9 +76,9 @@ The low risk precision is 100% with a recall score of 68%.
 	Figure 3: ClusterCentroids Balanced Accuracy Score, Confusion Matrix, and Imbalanced Classification Report. <br/>
 </p>
 
-The balanced accuracy score is 51.2%.
-The high risk precision is 1% with a recall score of 59%.
-The low risk precision is 100% with a recall score of 44%.
+- The balanced accuracy score is 51.2%.
+- The high risk precision is 1% with a recall score of 59%.
+- The low risk precision is 100% with a recall score of 44%.
 
 ### SMOTEENN
 
@@ -98,9 +98,9 @@ The low risk precision is 100% with a recall score of 44%.
 	Figure 4: SMOTEENN Balanced Accuracy Score, Confusion Matrix, and Imbalanced Classification Report. <br/>
 </p>
 
-The balanced accuracy score is 62.4%.
-The high risk precision is 1% with a recall score of 70%.
-The low risk precision is 100% with a recall score of 55%.
+- The balanced accuracy score is 62.4%.
+- The high risk precision is 1% with a recall score of 70%.
+- The low risk precision is 100% with a recall score of 55%.
 
 ### BalancedRandomForestClassifier
 
@@ -120,9 +120,9 @@ The low risk precision is 100% with a recall score of 55%.
 	Figure 5: BalancedRandomForestClassifier Balanced Accuracy Score, Confusion Matrix, and Imbalanced Classification Report. <br/>
 </p>
 
-The balanced accuracy score is 78.8%.
-The high risk precision is 4% with a recall score of 67%.
-The low risk precision is 100% with a recall score of 91%.
+- The balanced accuracy score is 78.8%.
+- The high risk precision is 4% with a recall score of 67%.
+- The low risk precision is 100% with a recall score of 91%.
 
 ### EasyEnsembleClassifier
 
@@ -142,9 +142,9 @@ The low risk precision is 100% with a recall score of 91%.
 	Figure 6: EasyEnsembleClassifier Balanced Accuracy Score, Confusion Matrix, and Imbalanced Classification Report. <br/>
 </p>
 
-The balanced accuracy score is 92.5%.
-The high risk precision is 7% with a recall score of 91%.
-The low risk precision is 100% with a recall score of 94%.
+- The balanced accuracy score is 92.5%.
+- The high risk precision is 7% with a recall score of 91%.
+- The low risk precision is 100% with a recall score of 94%.
 
 ## Summary
 
